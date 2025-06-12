@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tech Pulse</string>
+    <string-array name="news_type_array">
+        <item>academic</item>
+        <item>events</item>
+        <item>sports</item>
+    </string-array>
+
+    <!-- Navigation Menu Items -->
+    <string name="nav_academic">Academic</string>
+    <string name="nav_events">Events</string>
+    <string name="nav_sports">Sports</string>
+
+    <!-- Other strings -->
+    <string name="add_news">Add News</string>
+    <string name="submit_news">Submit News</string>
+    <string name="select_image">Select Image</string>
+
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+    <string name="signup"><u>Signup</u></string>
+    <string name="login"><u>Log In</u></string>
+    <string name="app_logo_description">App Logo</string>
+    <string name="loading_text">Loading resources...</string>
+    <string name="version_text">Version 1.0.0</string>
+</resources>
